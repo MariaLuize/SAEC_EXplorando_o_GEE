@@ -1,1 +1,1 @@
-# SAEC_EXplorando_o_GEE
+# SAEC_Explorando_o_GEE
